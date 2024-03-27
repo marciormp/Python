@@ -3,3 +3,6 @@ s2 = {6,7,8,9}
 
 print(s1&s2)
 print("Olá mundo!")
+
+
+# teste de comentário
