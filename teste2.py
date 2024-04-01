@@ -5,4 +5,10 @@ print(s1&s2)
 print("Olá mundo!")
 
 
+name = "Kim"
+greeting = f"Good morning, {name}"
+
+print(greeting)
+
+
 # teste de comentário
